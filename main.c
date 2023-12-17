@@ -8,8 +8,8 @@ int main()
     displayBeehive(oneBee);
     //BirthofBee(oneBee);
     //displayBeehive(oneBee);
-    deathOfBee(oneBee,6);
-    displayBeehive(oneBee);
+    //deathOfBee(oneBee,6);
+    //displayBeehive(oneBee);
     
 
     return 0;
