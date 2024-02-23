@@ -1,7 +1,7 @@
 #include "worldOfBee.c"
-// TO COMPILE THE PROGAMM MAKE SURE YOU INSTALL THE LIBRARY SDL2 AND COMPILE WITH -lSDL2 -lm
+/* TO COMPILE THE PROGAMM MAKE SURE YOU INSTALL THE LIBRARY SDL2 AND COMPILE WITH -lSDL2 -lm
                                                                                  
- /*                 =@#-:::-*@@*:                                                  
+                   =@#-:::-*@@*:                                                  
                  @-            #@#                                               
                 =%                =@*                                            
                 +*                   *@-                                         
@@ -31,7 +31,7 @@
               %@=      @@@@@@@@@@@@@           .@@@@@@@@@@                       
                 -@*.    %@@@@@@@@@@@@-           :%@@@@=                         
                     *@%- #@@@@@@@@@@@@@         :%@#.                            
-                        .+#%@@@@@@@@@@@@@*%@%#+.                */                 
+                        .+#%@@@@@@@@@@@@@*%@%#+.*/                 
                                                                      
 
 
